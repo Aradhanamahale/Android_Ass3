@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android_Ass3</string>
+    <string name="string1"><![CDATA[<string name=\"string1\">First Text</string>]]></string>
+    <string name="string2"><![CDATA[<string name=\"string2\">Second Text</string>]]></string>
+    <string name="string3"><![CDATA[<string name=\"string3\">Third Text</string>]]></string>
+    <string name="string4"><![CDATA[<string name=\"string4\">Fourth Text</string>]]></string>
+    <string name="string5"><![CDATA[<string name=\"string5\">Fifth Text</string>]]></string>
+</resources>
